@@ -1,0 +1,36 @@
+ 					Part one
+
+Task 1:
+1	float *ptr = new floar();
+2	long *func1( int a, int b);
+3	char *func2( const char const *ptr);
+4	int *ptr[20];
+5	std::string  arr[4] = {“cyan”,”magenta”,”yellow”,”black”};
+
+
+Task 2
+1.   1100
+2.   1101
+3.   65
+4.   66
+5.   C
+
+
+Task 3:
+1	
+”57 80”
+“80 80”
+2
+Int1 changed by last line, int2 changed by pointer *int1Ptr(line 8), which points int2 from line 7. So *int1Ptr is same to *int2Ptr, both 80.
+
+
+Task 4:
+1 1102
+2 1118
+3 3s
+
+Task 5:
+1	for(int i = 0; I < 4;i++){
+		std::cout<<” “<<*(strPtr+i)<<std::endl;
+	}
+2	delete strPtr;
